@@ -1,6 +1,6 @@
 # AACR 2017 - Abstract #558: Computational analysis of clinically actionable genomic features: Precision Heuristics for Interpreting the Alteration Landscape (PHIAL)
 
-This repository contains figure generation for AACR 2017 - Abstract #558, Computational analysis of clinically actionable genomic features: Precision Heuristics for Interpreting the Alteration Landscape (PHIAL). For this project we compared PHIAL2^1 and TARGET2 to their previously published versions using a cohort of 110 metatstatic melanoma^2 and 150 metastatic, castration resistant prostate samples^3. 
+This repository contains figure generation for AACR 2017 - Abstract #558, Computational analysis of clinically actionable genomic features: Precision Heuristics for Interpreting the Alteration Landscape (PHIAL). For this project we compared PHIAL2 (VanAllen, 2013) and TARGET2 to their previously published versions using a cohort of 110 metatstatic melanoma (VanAllen, 2015) and 150 metastatic, castration resistant prostate samples (Robinson, 2015). 
 
 The formal abstract for this presentation can be found here: http://www.abstractsonline.com/pp8/#!/4292/presentation/4249
 ## Presentors: 
